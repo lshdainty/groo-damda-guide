@@ -9,7 +9,7 @@ Desk는 아이디 · 비밀번호를 따로 만들지 않습니다. **POREST 통
 
 ## 웹에서 로그인
 
-1. [desk.porest.cloud](https://desk.porest.cloud) 에 들어가 "SSO 계정으로 로그인하세요" 아래 **[SSO 로그인]** 을 누릅니다
+1. [damda.hangroo.io](https://damda.hangroo.io) 에 들어가 "SSO 계정으로 로그인하세요" 아래 **[SSO 로그인]** 을 누릅니다
 
 <Tabs groupId="device">
 <TabItem value="desktop" label="데스크톱">
@@ -72,7 +72,7 @@ Desk는 아이디 · 비밀번호를 따로 만들지 않습니다. **POREST 통
 
 ## 앱 설치
 
-앱은 스토어에 올라가 있지 않아 직접 설치합니다. 웹의 **전체 → 앱 받기** 또는 [desk.porest.cloud/download](https://desk.porest.cloud/download) 에 들어가면 지금 받을 수 있는 버전과 빌드 번호가 보입니다. 앱 없이 브라우저만으로 써도 됩니다.
+앱은 스토어에 올라가 있지 않아 직접 설치합니다. 웹의 **전체 → 앱 받기** 또는 [damda.hangroo.io/download](https://damda.hangroo.io/download) 에 들어가면 지금 받을 수 있는 버전과 빌드 번호가 보입니다. 앱 없이 브라우저만으로 써도 됩니다.
 
 | | 받는 방법 | 필요한 OS |
 |---|---|---|

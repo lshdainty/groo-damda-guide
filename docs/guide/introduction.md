@@ -37,7 +37,7 @@ title: Desk 소개
 
 ## 어디서 쓸 수 있나요?
 
-- **웹**: 데스크톱 · 모바일 브라우저 어디서든 [desk.porest.cloud](https://desk.porest.cloud) — 앱 없이도 대부분의 기능을 쓸 수 있습니다
+- **웹**: 데스크톱 · 모바일 브라우저 어디서든 [damda.hangroo.io](https://damda.hangroo.io) — 앱 없이도 대부분의 기능을 쓸 수 있습니다
 - **앱**: Android 7.0 이상(APK 직접 설치) · iOS 15.0 이상(직접 서명해 설치) — [앱 설치](./login.md#앱-설치)
 
 같은 계정으로 로그인하면 웹과 앱의 기록은 그대로 함께 보입니다. 다만 **테마 · 언어**와 앱의 **앱 잠금**은 기기마다 따로 정합니다([표시 설정](../settings/display.md) 참고).
