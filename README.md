@@ -23,7 +23,7 @@ URL이 `/todo/todo`가 아니라 `/todo`로 축약된다 — 의도된 동작이
 
 ## 배포
 
-`desk.porest.cloud/guide/` 경로로 서빙된다(새 서브도메인 인증서 없이 기존 desk 엣지 nginx에 위치 블록만
+`damda.hangroo.io/guide/` 경로로 서빙된다(새 서브도메인 인증서 없이 기존 desk 엣지 nginx에 위치 블록만
 추가). `baseUrl: '/guide/'`는 `npm start`(dev)에도 그대로 적용된다 — 로컬에서 열 땐
 `http://localhost:3000/guide/...`로 접속해야 한다(접두어 없이 `/todo` 등으로 열면 404).
 
