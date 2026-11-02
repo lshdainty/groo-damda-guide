@@ -11,9 +11,9 @@ const config: Config = {
     v4: true,
   },
 
-  // desk.porest.cloud/guide/ 경로 하나로 서빙한다 — 새 서브도메인 인증서를 새로 안 받으려고
+  // damda.hangroo.io/guide/ 경로 하나로 서빙한다 — 새 서브도메인 인증서를 새로 안 받으려고
   // 기존 desk 엣지 nginx 에 location 블록만 얹는 방식(README 참고).
-  url: 'https://desk.porest.cloud',
+  url: 'https://damda.hangroo.io',
   baseUrl: '/guide/',
 
   organizationName: 'lshdainty',
@@ -78,7 +78,7 @@ const config: Config = {
           label: '설명서',
         },
         {
-          href: 'https://desk.porest.cloud',
+          href: 'https://damda.hangroo.io',
           label: 'Desk 열기',
           position: 'right',
         },
