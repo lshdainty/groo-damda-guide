@@ -1,4 +1,4 @@
-# porest-desk-guide
+# groo-damda-guide
 
 그루 담다(화면상 이름 Desk) 사용자 설명서 사이트. [Docusaurus](https://docusaurus.io/) 정적 사이트.
 
