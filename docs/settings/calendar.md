@@ -112,7 +112,7 @@ title: 캘린더 라벨 · 공유
 <Tabs groupId="device">
 <TabItem value="desktop" label="데스크톱">
 
-![캘린더 관리 화면 — 이름 · 색상, 초대 코드, 멤버(이름 · 이메일 · 권한), 맨 아래 [캘린더 삭제]](/img/screens/settings-calendar-manage.png)
+![캘린더 관리 화면 — 이름 · 색상, 초대 코드, 멤버(이름 · 권한), 맨 아래 [캘린더 삭제]](/img/screens/settings-calendar-manage.png)
 
 </TabItem>
 <TabItem value="mobile" label="모바일">
