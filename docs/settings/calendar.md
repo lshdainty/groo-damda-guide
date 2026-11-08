@@ -109,6 +109,19 @@ title: 캘린더 라벨 · 공유
 
 캘린더 줄을 누르면 그 캘린더의 **관리 화면**이 열립니다(위쪽 **‹ 캘린더 관리 · 공유** 로 돌아옵니다).
 
+<Tabs groupId="device">
+<TabItem value="desktop" label="데스크톱">
+
+![캘린더 관리 화면 — 이름 · 색상, 초대 코드, 멤버(이름 · 이메일 · 권한), 맨 아래 [캘린더 삭제]](/img/screens/settings-calendar-manage.png)
+
+</TabItem>
+<TabItem value="mobile" label="모바일">
+
+![캘린더 관리 화면(모바일)](/img/screens/mobile-settings-calendar-manage.png)
+
+</TabItem>
+</Tabs>
+
 ### 내가 만든 캘린더를 관리할 때
 
 - **이름 · 색상** 줄을 눌러 바꾸고 변경을 저장합니다
