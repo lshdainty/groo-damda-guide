@@ -149,7 +149,7 @@ title: 프리셋
 <Tabs groupId="device">
 <TabItem value="desktop" label="데스크톱">
 
-![프리셋 수정 — 추가 창과 같은 칸이 저장된 값(출근길 커피 · 외식 · 메가커피)으로 채워져 열리고, 버튼은 [저장]입니다](/img/screens/settings-preset-edit-form.png)
+![프리셋 수정 — 추가 창과 같은 칸이 저장된 값(출근길 커피 · 외식 · 달빛커피)으로 채워져 열리고, 버튼은 [저장]입니다](/img/screens/settings-preset-edit-form.png)
 
 </TabItem>
 <TabItem value="mobile" label="모바일">
