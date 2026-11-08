@@ -180,7 +180,7 @@ title: 반복거래
 <Tabs groupId="device">
 <TabItem value="desktop" label="데스크톱">
 
-![반복 거래 수정 — 추가 창과 같은 칸이 저장된 값(넷플릭스 구독)으로 채워져 열리고, 버튼은 [저장]입니다](/img/screens/settings-recurring-edit-form.png)
+![반복 거래 수정 — 추가 창과 같은 칸이 저장된 값(별빛영상 구독)으로 채워져 열리고, 버튼은 [저장]입니다](/img/screens/settings-recurring-edit-form.png)
 
 </TabItem>
 <TabItem value="mobile" label="모바일">
